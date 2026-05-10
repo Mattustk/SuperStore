@@ -5,8 +5,9 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 
-**⚠️ NOTA DE ORIGEM DOS DADOS:
-Nota Importante:** O dataset original utilizado neste projeto foi extraído do site "Kaggle" e pode ser acessado através deste link: 
+**⚠️ NOTA DE ORIGEM DOS DADOS**
+
+**Nota Importante:** O dataset original utilizado neste projeto foi extraído do site "Kaggle" e pode ser acessado através deste link: 
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 Qualquer semelhança com nomes, pessoas ou dados da vida real é mera coincidência. Este ambiente foi construído estritamente para fins de demonstração técnica e estudo de engenharia de dados.
